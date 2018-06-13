@@ -12,3 +12,4 @@
 8. bower install slick-carousel --save
 9. rename .env.sample to .env and edit configuration settings
 10. gulp
+11. composer require altorouter/altorouter
